@@ -1,5 +1,4 @@
 import numpy as np
-from colorama import Fore, Back, Style
 
 
 class tile(object):
